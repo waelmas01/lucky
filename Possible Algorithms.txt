@@ -1,0 +1,42 @@
+Suggested:
+You can use an LSTM with two outputs or you can use an MLP with two outputs to model this problem.
+
+back propagation with sliding window python for dates
+
+RBF if we consider it's based on first few numbers or previous rounds
+
+TDNN for one based on a specific input like time or ticket number
+
+k-means clustering
+
+Back probagation might work too
+
+Logistic Regression
+
+Human decision pattern recognition
+
+clustering
+
+Naïve Bayes Classifier Algorithm
+
+Support Vector Machine Learning Algorithm
+
+random forest regression
+
+https://www.dezyre.com/article/top-10-machine-learning-algorithms/202
+
+My guess:
+Robust nonlinear regression
+Differential Evolution uses the Latin Hypercube algorithm
+
+https://towardsdatascience.com/how-to-teach-an-ai-to-play-games-deep-reinforcement-learning-28f9b920440a
+maybe even like the above unsupervised... just learn to guess
+
+Unsupervised learning...
+https://www.kaggle.com/sashr07/unsupervised-learning-tutorial
+
+
+
+
+
+find % of having a specific number each time (even in excel can be done)
